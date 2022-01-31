@@ -27,3 +27,8 @@ h1 {
   font-family: "Lato", sans-serif;
   padding-bottom: 0.6em;
 }
+
+p {
+  padding-top: 1.2em;
+  padding-bottom: 0.8em;
+}
