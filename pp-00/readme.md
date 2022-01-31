@@ -36,7 +36,7 @@ complete it, especially if you’ve not forked and set up a repository like this
    editor, and write below the URL to your fork of the GitHub repository, and the add and commit
    this file:
 
-   My Production Problems repository URL:
+   My Production Problems repository URL: https://github.com/seankhu99/hci-production-problems
 
 4. Next, push your commit to GitHub. `git push origin main` from your command line. That is all you
    need to do to submit future Production Problems. **There is no need to open a pull request.** So
@@ -60,7 +60,7 @@ complete it, especially if you’ve not forked and set up a repository like this
    repository as a second remote. From your command line and within the `hci-production-problems`
    directory, run the command:
 
-     $ git remote add upstream https://github.com/hci-2022/hci-production-problems.git
+     $ git remote add upstream https://github.com/seankhu99/hci-production-problems
 
    Once you have done that, you can run the command `git remote -v` and it should list two remotes,
    one called `origin` and one called `upstream`.
