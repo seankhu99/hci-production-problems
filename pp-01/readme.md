@@ -48,5 +48,7 @@ Let’s start with something fun: a typeface-pairing game.
    Other Production Problems will require you to serve your work, so choose the root of your
    Production Problems repository for the publishing source.
 
+   https://seankhu99.github.io/hci-production-problems/
+
 When it comes time to discuss this Production Problem on Basecamp, be sure to share the GitHub Pages
 link to your work!
