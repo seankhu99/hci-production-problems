@@ -16,12 +16,13 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1.https://www.plerdy.com/usability-testing-website-checklist/ (Third page of Google)
+2.https://drpete.co/blog/25-point-website-usability-checklist (Second page of Google)
+
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
+1. 
 2.
 3.
 4.
